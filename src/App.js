@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Portfolio from "./pages/Portfolio";
 import Mediline from "./pages/projects/Mediline.js";
 import CampusCare from "./pages/projects/CampusCare";
-import LocalLoop from "./pages/projects/LocalLoop";
+import LocalLoop from "./pages/projects/LocalLoop.js";
 
 export default function App() {
   return (
