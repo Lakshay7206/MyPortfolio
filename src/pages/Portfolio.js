@@ -463,7 +463,7 @@ export default function Portfolio() {
         <header className="flex items-center justify-between mb-12">
           <div>
             <h1 className="text-2xl md:text-3xl font-extrabold tracking-tight">
-              {personal.name} — {personal.role}
+              {personal.name} <br></br>{personal.role}
             </h1>
             <p className="text-sm opacity-80 mt-1">{personal.tagline}</p>
           </div>

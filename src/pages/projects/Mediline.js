@@ -35,9 +35,10 @@ export default function Mediline() {
 
   // VIDEOS
   const demoVideos = [
-    "/videos/superAdmin.mp4",
     "/videos/userLakshay.mp4",
     "/videos/demo3.mp4",
+    "/videos/superAdmin.mp4",
+    
   ];
   const videoLabels = ["User Panel", "Admin Panel", "Super Admin Panel"];
 
